@@ -44,7 +44,7 @@ describe('TC:1 LOGIN TO INSTAGRAM',function()
         lp.submit();
     
         cy.wait(10000);
-        cy.get('div.cmbtv button').should('have.text','Not Now')
+        cy.get('div.cmbtv button').should('have.text','Not Now');
         
     })
        
