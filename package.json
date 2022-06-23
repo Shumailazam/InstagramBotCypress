@@ -1,0 +1,15 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "This is for Instagram Automation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shumail",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.2.0",
+    "cypress-xpath": "^2.0.0"
+  }
+}
